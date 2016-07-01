@@ -1,14 +1,26 @@
-layout_spectrum: 0.15490873204544187
-typography_spectrum: 0.13863821770064533
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1386382177006453
 color:
-  brandStrength: 0.47117825085297227
-  lightness: 0.3440787820145488
-  saturation: 0.7195628182962537
-  rhythmicContrast: 0.7383085461333394
+  saturation: 0.6299677
+  brandStrength: 0.4711782508529723
+  lightness: 0.4505908
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+  rhythmicContrast: 0.594522
+layout_spectrum: 0.1549087320454419
 name: 'MyAllAcrossAmerica '
