@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-05T10:35:51.500Z'
-dateModified: '2016-07-05T10:35:37.160Z'
+datePublished: '2016-07-05T10:38:06.281Z'
+dateModified: '2016-07-05T10:35:56.124Z'
 title: Back to One Earth Community
 author:
   - name: ''
