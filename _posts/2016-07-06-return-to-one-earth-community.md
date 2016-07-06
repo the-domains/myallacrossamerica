@@ -5,16 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T10:40:31.235Z'
-dateModified: '2016-07-06T10:40:28.575Z'
+datePublished: '2016-07-06T11:01:33.277Z'
+dateModified: '2016-07-06T10:40:39.108Z'
 title: return to one earth community
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-07-06-return-to-one-earth-community.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-06-return-to-one-earth-community.md
 url: return-to-one-earth-community/index.html
 _type: WebPage
 
