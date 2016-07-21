@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1386382177006453
 color:
   saturation: 0.8995703
   brandStrength: 0.4711782508529723
-  lightness: 0.4914071
+  lightness: 0.5816327
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.2959183
+typography_spectrum: 0.1386382177006453
 layout_spectrum: 0.1549087320454419
 name: 'MyAllAcrossAmerica '
