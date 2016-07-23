@@ -24,3 +24,8 @@ color:
   rhythmicContrast: 0.2959183
 layout_spectrum: 0
 name: 'MyAllAcrossAmerica '
+navigation:
+  - id: 'https://thegrid.ai/one-earth-community/'
+    url: 'https://thegrid.ai/one-earth-community/'
+    name: 'Return to One Earth Community '
+    type: external
