@@ -4,7 +4,7 @@
         <description><![CDATA[MyAllAcrossAmerica ]]></description>
         <link>https://thegrid.ai/myallacrossamerica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 12:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 22:53:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myallacrossamerica/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shameless…]]></title>
@@ -12,6 +12,13 @@
             <link>http://youtu.be/DyhXxH8yU5c</link>
             <guid isPermaLink="false">d05369da-f21e-4511-b062-e290bef5f394</guid>
             <pubDate>Thu, 04 Aug 2016 12:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding the chicken and the egg...]]></title>
+            <description><![CDATA[<article><h1>Understanding the chicken and the egg...</h1><p>I was doing some research to get a rough idea of how many chicken houses there might be across the United States. Local to my area there are quite a number. All very large with a huge amount of roof area for pv solar panels.</p></article>]]></description>
+            <link>http://modernfarmer.com/2014/02/chicken-farming-discontents/</link>
+            <guid isPermaLink="false">6bc63bba-2f72-41ba-9cf5-c98f4d46301a</guid>
+            <pubDate>Thu, 04 Aug 2016 22:53:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ And now more important news other than politics… ]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@rands/the-maker-of-things-9c3f23b897a1</link>
             <guid isPermaLink="false">ae4fe633-f9c5-40e9-8ab0-a1b50daa3f59</guid>
             <pubDate>Sat, 23 Jul 2016 22:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[True love and devotion...]]></title>
-            <description><![CDATA[<article><h1>True love and devotion...</h1><p>The Kansas man noticed his young son, who's battling brain cancer, was self-conscious about the scar left behind on his head after a surgery. So Marshall got a tattoo that matches his son's scar. A picture of the head-matching father and son was entered into the #BestBaldDad contest sponsored by the St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e89e966a09b597eec011caa42070b0d862ecaadd.jpg"></article>]]></description>
-            <link>http://www.cnn.com/2016/06/22/us/bald-dad-tattoo-trnd/index.html</link>
-            <guid isPermaLink="false">e93e6c24-c13a-469d-afe3-8717c9dd548d</guid>
-            <pubDate>Thu, 21 Jul 2016 01:57:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
