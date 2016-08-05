@@ -1,8 +1,10 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
+isBasedOnUrl: 'http://youtu.be/DyhXxH8yU5c'
 title: Shameless…
-dateModified: '2016-08-04T12:02:00.968Z'
+datePublished: '2016-08-05T00:44:08.498Z'
+dateModified: '2016-08-05T00:44:04.157Z'
 publisher: {}
 author:
   - name: One America News Network
@@ -14,10 +16,8 @@ description: >-
   classified emails on her private server. One America's Emily Miller has this
   report.
 via: {}
-datePublished: '2016-08-04T12:02:27.953Z'
-isBasedOnUrl: 'http://youtu.be/DyhXxH8yU5c'
-sourcePath: _posts/2016-08-03-shameless.md
 starred: true
+sourcePath: _posts/2016-08-03-shameless.md
 _type: MediaObject
 
 ---
