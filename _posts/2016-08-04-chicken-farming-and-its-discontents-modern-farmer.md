@@ -1,10 +1,16 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-04T22:53:11.376Z'
-dateModified: null
-author: []
 isBasedOnUrl: 'http://modernfarmer.com/2014/02/chicken-farming-discontents/'
+title: Understanding the chicken and the egg...
+datePublished: '2016-08-05T00:48:34.759Z'
+dateModified: '2016-08-05T00:48:28.220Z'
+publisher: {}
+author: []
+description: >-
+  I was doing some research to get a rough idea of how many chicken houses there
+  might be across the United States. Local to my area there are quite a number.
+  All very large with a huge amount of roof area for pv solar panels.
+via: {}
+starred: false
 sourcePath: _posts/2016-08-04-chicken-farming-and-its-discontents-modern-farmer.md
 inFeed: true
 hasPage: false
