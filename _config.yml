@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.1386382177006453
 color:
   saturation: 0.8995703
@@ -25,7 +13,19 @@ color:
 layout_spectrum: 0
 name: 'MyAllAcrossAmerica '
 navigation:
-  - id: 'https://thegrid.ai/one-earth-community/'
+  - name: 'Return to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
-    name: 'Return to One Earth Community '
     type: external
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: 'My Country '
