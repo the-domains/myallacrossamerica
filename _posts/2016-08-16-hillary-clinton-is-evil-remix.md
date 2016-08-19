@@ -1,11 +1,21 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-16T12:40:15.313Z'
-dateModified: null
-author: []
+title: " I made a vow today not to watch anything from the mainstream media… But that doesn't mean I can't watch a video or two \uD83C\uDDFA\uD83C\uDDF8"
+datePublished: '2016-08-19T19:59:26.139Z'
+dateModified: '2016-08-19T19:51:44.385Z'
+author:
+  - name: placeboing
+    url: 'https://www.youtube.com/user/placeboing'
+    avatar: {}
 isBasedOnUrl: 'https://youtu.be/vqYJRc0TJkQ'
 sourcePath: _posts/2016-08-16-hillary-clinton-is-evil-remix.md
+description: >-
+  "We came, we saw, he died!" Video editing and music by me. Subscribe for more
+  remixes and music! Also available on Facebook if you prefer to share there:
+  https://www.facebook.com/placeboing Thank you to: National Journal for
+  locating many of the laughing clips.
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
