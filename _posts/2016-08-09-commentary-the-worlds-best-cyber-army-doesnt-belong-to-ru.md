@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-08-09T00:22:36.242Z'
+dateModified: '2016-08-19T19:51:45.570Z'
 author:
   - name: James Bamford
     url: null
@@ -15,7 +15,7 @@ description: >-
   ground political venue is not immune to the snooping and exploitation. So long
   as you have the “connections” or money to buy them.
 sourcePath: _posts/2016-08-09-commentary-the-worlds-best-cyber-army-doesnt-belong-to-ru.md
-datePublished: '2016-08-09T00:22:45.214Z'
+datePublished: '2016-08-19T19:59:27.962Z'
 starred: false
 inFeed: true
 hasPage: false
