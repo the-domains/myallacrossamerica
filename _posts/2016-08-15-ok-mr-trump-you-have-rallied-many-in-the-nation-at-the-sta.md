@@ -83,8 +83,8 @@ title: >-
   Media. 
 isBasedOnUrl: >-
   http://www.politico.com/story/2016/08/pollsters-trump-approaching-zero-hour-227000
-dateModified: '2016-08-15T14:26:59.147Z'
-datePublished: '2016-08-15T14:27:35.776Z'
+dateModified: '2016-08-19T19:51:44.431Z'
+datePublished: '2016-08-19T19:59:26.896Z'
 description: >-
   No candidate in Donald Trump's position at this stage of the campaign has gone
   on to win the popular vote in November in the modern polling era. That's the
@@ -92,9 +92,9 @@ description: >-
   recent slump.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-15-ok-mr-trump-you-have-rallied-many-in-the-nation-at-the-sta.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
