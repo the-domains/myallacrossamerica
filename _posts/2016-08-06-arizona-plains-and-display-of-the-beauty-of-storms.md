@@ -3,14 +3,14 @@ author: []
 title: Arizona plains and display of the beauty of storms...
 isBasedOnUrl: >-
   http://photography.nationalgeographic.com/photography/photo-of-the-day/vermillion-cliffs-storm/?utm_source=Twitter&utm_medium=Social&utm_content=link_tw20160802photo-pod&utm_campaign=Content&sf32276411=1#close
-dateModified: '2016-08-06T20:48:27.086Z'
-datePublished: '2016-08-06T21:14:04.143Z'
+dateModified: '2016-08-19T19:51:45.610Z'
+datePublished: '2016-08-19T19:59:28.042Z'
 description: ''
 publisher:
   name: David Rankin
 via: {}
-starred: false
 sourcePath: _posts/2016-08-06-arizona-plains-and-display-of-the-beauty-of-storms.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
