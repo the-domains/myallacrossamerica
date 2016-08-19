@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.1379458217415959
   brandStrength: 0.1327057275921106
@@ -27,5 +27,5 @@ navigation:
   - name: 'Return to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
     type: external
-layout_spectrum: 1
+layout_spectrum: 0.8533834
 name: 'MyAllAcrossAmerica '
