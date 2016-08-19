@@ -1,11 +1,14 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-11T14:42:26.829Z'
-dateModified: null
+title: 'Women''s field hockey crushes Japan 6-1; Next match, against India, is tonight'
+datePublished: '2016-08-19T19:59:27.294Z'
+dateModified: '2016-08-19T19:51:45.042Z'
 author: []
 isBasedOnUrl: 'http://bit.ly/2biQt2o'
 sourcePath: _posts/2016-08-11-womens-field-hockey-crushes-japan-6-1-next-match-against.md
+description: ' Central Pennsylvania as a connection with the girls field hockey team… Training facility is in Central Pennsylvania '
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
