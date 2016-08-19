@@ -1,13 +1,16 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-09T15:19:15.335Z'
-dateModified: null
+title: 'Kerri Walsh Jennings, April Ross win second preliminary match'
+datePublished: '2016-08-19T19:59:27.599Z'
+dateModified: '2016-08-19T19:51:45.364Z'
 author: []
 isBasedOnUrl: >-
   http://www.nbcolympics.com/news/kerri-walsh-jennings-april-ross-win-second-preliminary-match
 sourcePath: >-
   _posts/2016-08-09-kerri-walsh-jennings-april-ross-win-second-preliminary-matc.md
+description: Go girls ! The dynasty remains intact.
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
