@@ -1,11 +1,23 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-08-06T15:46:25.122Z'
-dateModified: null
-author: []
+title: "meet a new friend and enjoy his music \uD83C\uDDFA\uD83C\uDDF8"
+datePublished: '2016-08-19T19:59:28.087Z'
+dateModified: '2016-08-19T19:51:45.703Z'
+author:
+  - name: JohnTracyMusic
+    url: 'https://www.youtube.com/user/JohnTracyMusic'
+    avatar: {}
 isBasedOnUrl: 'https://youtu.be/Pa-JoE4ID50'
 sourcePath: _posts/2016-08-06-john-tracy-fairytales-come-true-official-audio.md
+description: >-
+  Download your copy of this song now on iTunes at http://bit.ly/JTItunes! FREE
+  MUSIC at http://www.johntracymusic.com/free Learn more about John Tracy at
+  http://www.johntracymusic.com Follow John Tracy on Twitter at
+  http://www.twitter.com/johntracymusic Like John Tracy on Facebook at
+  http://www.facebook.com/johntracymusic. "Fairytales Come True" from the newly
+  released CD "I've Got To Find Myself."
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
