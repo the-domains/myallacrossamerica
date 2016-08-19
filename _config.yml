@@ -1,3 +1,16 @@
+layout_spectrum: 0.24066231376491487
+typography_spectrum: 0.14005537191405892
+color:
+  saturation: 0.20260974671691656
+  brandStrength: 0.0805645789951086
+  lightness: 0.3757217931561172
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  rhythmicContrast: 0.0931750345043838
 collections:
   - index:
       path: /
@@ -10,22 +23,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7696025
-  brandStrength: 0.4711782508529723
-  lightness: 0.7524167
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.2959183
-typography_spectrum: 0.1386382177006453
 description: 'My Country '
 navigation:
   - name: 'Return to One Earth Community '
     url: 'https://thegrid.ai/one-earth-community/'
     type: external
-layout_spectrum: 0
 name: 'MyAllAcrossAmerica '
