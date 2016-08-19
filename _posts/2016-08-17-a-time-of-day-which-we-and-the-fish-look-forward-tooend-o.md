@@ -1,14 +1,14 @@
 ---
-dateModified: '2016-08-17T16:28:02.885Z'
+dateModified: '2016-08-19T19:51:44.282Z'
 author: []
 via: {}
 title: "a time of day which we and the fish look forward too...end of the work day plus food for the school \uD83D\uDC1F"
 publisher:
   name: ricko
 description: ''
-datePublished: '2016-08-17T16:28:17.736Z'
-starred: false
+datePublished: '2016-08-19T19:59:26.215Z'
 sourcePath: _posts/2016-08-17-a-time-of-day-which-we-and-the-fish-look-forward-tooend-o.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
