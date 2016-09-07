@@ -4,7 +4,7 @@
         <description><![CDATA[MyAllAcrossAmerica ]]></description>
         <link>https://thegrid.ai/myallacrossamerica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 21:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 13:58:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myallacrossamerica/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy Birthday USA 🇺🇸]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/books/2016/jul/04/the-statue-of-liberty-immigrants-independence-day</link>
             <guid isPermaLink="false">a51a5f51-ea81-4f4e-97eb-57821951a466</guid>
             <pubDate>Fri, 19 Aug 2016 19:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Librarian Who Amassed Millions By Living Humbly Leaves Entire Fortune To College]]></title>
+            <description><![CDATA[<article><h1>Librarian Who Amassed Millions By Living Humbly Leaves Entire Fortune To College</h1><p>“Robert dedicated his career to a place of learning many do not appreciate in this age of digital content availability. It's so simple to hang out in your dorm room and Google everything.” just saying from experience... ricko</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e678ebd76c2dbb43eca58e8635ad8940/noop.jpeg?input=http%3A%2F%2Fimg.huffingtonpost.com%2Fasset%2F2000_1000%2F57c9ca2f170000012ac774a7.jpeg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/entry/librarian-who-amassed-millions-by-living-humbly-leaves-entire-fortune-to-college_us_57c99ba6e4b0a22de095b82e</link>
+            <guid isPermaLink="false">e121e462-0b71-46ff-80f5-ce748f80e4aa</guid>
+            <pubDate>Sat, 03 Sep 2016 13:58:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brains Of Holocaust Victims Discovered In Munich Institute]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/LoQEFUYHpRg</link>
             <guid isPermaLink="false">bb54f31e-3bc1-492a-b513-d9d12db1d437</guid>
             <pubDate>Wed, 24 Aug 2016 22:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American University Attacked in Kabul]]></title>
-            <description><![CDATA[<article><h1>American University Attacked in Kabul</h1><p>The American University of Afghanistan in Kabul came under attack today, as security forces exchanged gunfire with the attackers. The gunfire that was reported in the vicinity of the school has now stopped, according to a source in the Kabul Police Force. The same source told ABC News that two...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c36cd2a0df3d6a3c66c5215e9aa132e/noop.jpg?input=http%3A%2F%2Fa.abcnews.com%2Fimages%2FInternational%2Fap_american_university_kabul_jc_160824_4x3_992.jpg"></article>]]></description>
-            <link>http://abcnews.go.com/International/american-university-attacked-kabul-afghanistan/story?id=41618784</link>
-            <guid isPermaLink="false">ef2391e8-3d5f-4e98-bf10-07cea8023018</guid>
-            <pubDate>Wed, 24 Aug 2016 22:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
